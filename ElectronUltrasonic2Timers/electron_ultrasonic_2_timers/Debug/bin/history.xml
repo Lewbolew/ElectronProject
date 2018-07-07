@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=electron_ultrasonic_2_timers.map -O0 --gc-sections -LE:\IoT\CoIDE\configuration\ProgramData\electron_ultrasonic_2_timers -TE:\IoT\CoIDE\configuration\ProgramData\electron_ultrasonic_2_timers/arm-gcc-link.ld -g">
+      <target file="electron_ultrasonic_2_timers.elf" lastModified="164170e82af">
+         <source file="..\obj\semihosting.o" lastModified="164170e7c26"/>
+         <source file="..\obj\stm32f0xx_rcc.o" lastModified="164170e7cac"/>
+         <source file="..\obj\main.o" lastModified="164170e7dcc"/>
+         <source file="..\obj\startup_stm32f0xx.o" lastModified="164170e7ddb"/>
+         <source file="..\obj\printf.o" lastModified="164170e7e94"/>
+         <source file="..\obj\stm32f0xx_gpio.o" lastModified="164170e7f08"/>
+         <source file="..\obj\sh_cmd.o" lastModified="164170e7f17"/>
+         <source file="..\obj\syscalls.o" lastModified="164170e7f7c"/>
+         <source file="..\obj\system_stm32f0xx.o" lastModified="164170e7fe0"/>
+         <source file="..\obj\USART.o" lastModified="164170e8089"/>
+      </target>
+   </processor>
+</history>

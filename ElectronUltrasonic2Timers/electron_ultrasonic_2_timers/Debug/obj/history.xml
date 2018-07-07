@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m0 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F072RB -I..\..\..\workspace\electron_ultrasonic_2_timers\semihosting -I..\..\.. -I..\..\..\workspace\electron_ultrasonic_2_timers\cmsis_lib -I..\..\..\workspace\electron_ultrasonic_2_timers -I..\..\..\workspace\electron_ultrasonic_2_timers\cmsis_boot -I..\..\..\workspace\electron_ultrasonic_2_timers\cmsis_lib\include -I..\..\..\workspace\electron_ultrasonic_2_timers\cmsis_core -I..\..\..\workspace">
+      <target file="syscalls.o" lastModified="164170e7f7c">
+         <source file="..\..\..\syscalls\syscalls.c" lastModified="160f3cbdb97"/>
+      </target>
+      <target file="stm32f0xx_gpio.o" lastModified="164170e7f08">
+         <source file="..\..\..\cmsis_lib\source\stm32f0xx_gpio.c" lastModified="160f3cc5d18"/>
+      </target>
+      <target file="stm32f0xx_rcc.o" lastModified="164170e7cac">
+         <source file="..\..\..\cmsis_lib\source\stm32f0xx_rcc.c" lastModified="160f3cc4551"/>
+      </target>
+      <target file="printf.o" lastModified="164170e7e94">
+         <source file="..\..\..\stdio\printf.c" lastModified="160f3ccbe52"/>
+      </target>
+      <target file="main.o" lastModified="164170e7dcc">
+         <source file="..\..\..\main.c" lastModified="164170e7a0e"/>
+      </target>
+      <target file="sh_cmd.o" lastModified="164170e7f17">
+         <source file="..\..\..\semihosting\sh_cmd.s" lastModified="160f3cc15bb"/>
+      </target>
+      <target file="semihosting.o" lastModified="164170e7c26">
+         <source file="..\..\..\semihosting\semihosting.c" lastModified="160f3cc15bb"/>
+      </target>
+      <target file="system_stm32f0xx.o" lastModified="164170e7fe0">
+         <source file="..\..\..\cmsis_boot\system_stm32f0xx.c" lastModified="160f3cc2bf3"/>
+      </target>
+      <target file="startup_stm32f0xx.o" lastModified="164170e7ddb">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f0xx.s" lastModified="160f3cc2bd3"/>
+      </target>
+      <target file="USART.o" lastModified="164170e8089">
+         <source file="..\..\..\USART.c" lastModified="160f8e26db5"/>
+      </target>
+   </processor>
+</history>

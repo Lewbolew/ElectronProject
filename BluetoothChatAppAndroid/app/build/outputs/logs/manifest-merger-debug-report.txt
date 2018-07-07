@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/d6c28c0e5a6ffd36c5a25c84f1b63f87/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/f4a0cc6a415e9e6aa2a7d201effe1cf9/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.volley:volley:1.0.0] /home/bohdan/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/e1cf42380ccfbd4e3bf4a1ebb93f684b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/904f84e5489d8830d81a2f3c952abd59/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/037ad159f33ae7d703de422a880e9ba2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/4f2c6b9fd536446383e0ae092778ca2e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/8b263552006ef9b8cb56173401d09b87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c997e2310cca6718ae5d1ad1ea6b5050/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/60a0ad858bb63f04640f7a279633aafa/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/46ad7ba6183ce910ddeb83ad8d0bde7b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/513f690d332770b6cb9bf60bb3ed1586/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/e6b657aa1ea5cab426d79b20c4897bed/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.INTERNET
+ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:9:5-22:19
+MERGED from [com.android.support:design:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/d6c28c0e5a6ffd36c5a25c84f1b63f87/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/d6c28c0e5a6ffd36c5a25c84f1b63f87/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/f4a0cc6a415e9e6aa2a7d201effe1cf9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/f4a0cc6a415e9e6aa2a7d201effe1cf9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/bohdan/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/e1cf42380ccfbd4e3bf4a1ebb93f684b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/bohdan/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/e1cf42380ccfbd4e3bf4a1ebb93f684b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/904f84e5489d8830d81a2f3c952abd59/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/904f84e5489d8830d81a2f3c952abd59/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/037ad159f33ae7d703de422a880e9ba2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/037ad159f33ae7d703de422a880e9ba2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/4f2c6b9fd536446383e0ae092778ca2e/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/4f2c6b9fd536446383e0ae092778ca2e/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c997e2310cca6718ae5d1ad1ea6b5050/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c997e2310cca6718ae5d1ad1ea6b5050/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/60a0ad858bb63f04640f7a279633aafa/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/60a0ad858bb63f04640f7a279633aafa/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/46ad7ba6183ce910ddeb83ad8d0bde7b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/46ad7ba6183ce910ddeb83ad8d0bde7b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/513f690d332770b6cb9bf60bb3ed1586/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/513f690d332770b6cb9bf60bb3ed1586/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/e6b657aa1ea5cab426d79b20c4897bed/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/e6b657aa1ea5cab426d79b20c4897bed/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:14:9-40
+activity#info.devexchanges.bluetoothchatapp.MainActivity
+ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/d6c28c0e5a6ffd36c5a25c84f1b63f87/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/d6c28c0e5a6ffd36c5a25c84f1b63f87/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/f4a0cc6a415e9e6aa2a7d201effe1cf9/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/f4a0cc6a415e9e6aa2a7d201effe1cf9/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.volley:volley:1.0.0] /home/bohdan/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/e1cf42380ccfbd4e3bf4a1ebb93f684b/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /home/bohdan/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/e1cf42380ccfbd4e3bf4a1ebb93f684b/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-v4:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/904f84e5489d8830d81a2f3c952abd59/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/904f84e5489d8830d81a2f3c952abd59/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/037ad159f33ae7d703de422a880e9ba2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/037ad159f33ae7d703de422a880e9ba2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/4f2c6b9fd536446383e0ae092778ca2e/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/4f2c6b9fd536446383e0ae092778ca2e/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/8b263552006ef9b8cb56173401d09b87/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/8b263552006ef9b8cb56173401d09b87/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c997e2310cca6718ae5d1ad1ea6b5050/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c997e2310cca6718ae5d1ad1ea6b5050/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/60a0ad858bb63f04640f7a279633aafa/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/60a0ad858bb63f04640f7a279633aafa/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/46ad7ba6183ce910ddeb83ad8d0bde7b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/46ad7ba6183ce910ddeb83ad8d0bde7b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/513f690d332770b6cb9bf60bb3ed1586/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/513f690d332770b6cb9bf60bb3ed1586/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/e6b657aa1ea5cab426d79b20c4897bed/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/e6b657aa1ea5cab426d79b20c4897bed/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/bohdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/f4a0cc6a415e9e6aa2a7d201effe1cf9/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/src/main/AndroidManifest.xml

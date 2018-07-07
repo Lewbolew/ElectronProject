@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark"
+    android:padding="@dimen/activity_horizontal_margin"
+    tools:context="info.devexchanges.bluetoothchatapp.MainActivity">
+
+    <!--<Button-->
+        <!--android:id="@+id/button1"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_below="@+id/editText1"-->
+        <!--android:text="Write Text into File"-->
+        <!--android:onClick="WriteBtn"-->
+        <!--android:layout_margin="5dp"/>-->
+
+        <TextView
+            android:id="@+id/status"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Not Connected" />
+
+        <Button
+            android:id="@+id/btn_connect"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:background="@drawable/round_button_connect"
+            android:layout_width="250dp"
+            android:layout_height="90dp"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:text="Connect" />
+
+        <TextView
+            android:id="@+id/strokes_text"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="200dp"
+            android:text="0"
+            />
+
+        <TextView
+            android:id="@+id/server_response"
+            android:layout_width="fill_parent"
+            android:layout_marginTop="1dp"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="No requests yet"
+            />
+
+    <Button
+        android:id="@+id/button_id"
+        android:layout_width="fill_parent"
+        android:layout_height="90dp"
+        android:text="Send"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:background="@drawable/round_button"
+
+        />
+
+    <!--<EditText-->
+        <!--android:id="@+id/editText1"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_below="@+id/textView1"-->
+        <!--android:layout_marginTop="22dp"-->
+        <!--android:ems="10"-->
+        <!--android:layout_margin="5dp">-->
+        <!--<requestFocus />-->
+    <!--</EditText>-->
+
+
+    <!--<Button-->
+        <!--android:id="@+id/button2"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_below="@+id/button1"-->
+        <!--android:text="Read Text From file"-->
+        <!--android:onClick="ReadBtn"-->
+        <!--android:layout_margin="5dp" />-->
+
+</LinearLayout>

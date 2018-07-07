@@ -1,0 +1,4 @@
+#Tue Jun 19 16:23:16 EEST 2018
+base.0=/home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

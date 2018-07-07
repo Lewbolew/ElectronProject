@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue May 15 17:09:06 EEST 2018
+0.baseType=DIRECTORY
+0.base=/home/bohdan/AndroidStudioProjects/BluetoothChatAppAndroid/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
